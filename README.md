@@ -1,2 +1,2 @@
 # Inteligencia-Artificial2
-In
+  Repositorio de diversos códigos ligados a area de IA em python
